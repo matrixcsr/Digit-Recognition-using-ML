@@ -1,6 +1,7 @@
 # Digit-Recognition-using-ML
 An Image to text converter program that leverages ML and predicts digits drawn on Tkinter GUI and image that are uploaded through it.
 
+Works best at 1920x108t.
 Requires Python 3.7+ to run.
 Requires necessary dependencies.
 pip or pip3 according to your pip version (pip --version)
