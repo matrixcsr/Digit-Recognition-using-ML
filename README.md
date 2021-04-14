@@ -15,7 +15,7 @@ Requires necessary dependencies*.
 - pip install pandas                #Pandas required to make a data frame for graph.
 
 **--OPTIONAL--**  
-~~- pip install pickle~~                #Needed to load SKlearn model.(deprecated model)
+- ~~pip install pickle~~            #Needed to load SKlearn model.(deprecated model)
 - pip install silence_tensorflow    #To suppress Tensorflow debug code during compile.
 
 GUI is based on Python Tkinter libraries, GUI has two modules 'Draw' and 'Upload'.
