@@ -25,3 +25,5 @@ In 'Draw' module, user will draw using the cursor inside the black canvas and th
 
 **2nd Module:-**
 In 'Upload' module, user will upload an image of a digit(single) and the program will predict, If the prediction is wrong, User will be provided an alt method which changes some of the image pre-processing and will generate a different and more accurate output.
+
+Tensorflow Model code on [Google Colab](https://colab.research.google.com/drive/1cmySpgggywDQgNzX-s_EOsrqvPRPOG0u?usp=sharing)
