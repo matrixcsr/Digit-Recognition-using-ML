@@ -3,7 +3,7 @@ An Image to text converter program that leverages ML and predicts digits drawn o
 
 Works best at 1920x1080.
 Requires Python 3.7+ to run.
-Requires necessary dependencies.
+Requires necessary dependencies*.
 
 **pip or pip3 according to your pip version (pip --version)**
 
