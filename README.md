@@ -21,7 +21,7 @@ Requires necessary dependencies*.
 GUI is based on Python Tkinter libraries, GUI has two modules 'Draw' and 'Upload'.
 
 **1st Module:-**
--In 'Draw' module, user will draw using the cursor inside the black canvas and the program will predict the digit when the 'Predict' button is pressed.
+In 'Draw' module, user will draw using the cursor inside the black canvas and the program will predict the digit when the 'Predict' button is pressed.
 
 **2nd Module:-**
--In 'Upload' module, user will upload an image of a digit(single) and the program will predict, If the prediction is wrong, User will be provided an alt method which changes some of the image pre-processing and will generate a different and more accurate output.
+In 'Upload' module, user will upload an image of a digit(single) and the program will predict, If the prediction is wrong, User will be provided an alt method which changes some of the image pre-processing and will generate a different and more accurate output.
