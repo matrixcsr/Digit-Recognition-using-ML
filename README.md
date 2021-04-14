@@ -5,7 +5,7 @@ Works best at 1920x1080.
 Requires Python 3.7+ to run.
 Requires necessary dependencies*.
 
-**pip or pip3 according to your pip version (pip --version)**
+**pip or pip3 according to your pip version __(pip --version)__**
 
 - pip install pyautogui             #Pyautogui for capturing frame and taking screenshot.
 - pip install --upgrade tensorflow  #To load and run the tf model.
