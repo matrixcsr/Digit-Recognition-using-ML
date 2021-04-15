@@ -13,6 +13,7 @@ Requires necessary dependencies*.
 - pip install numpy                 #For array functions.
 - pip install matplotlib            #For showing a graph on accuracy of predictions.
 - pip install pandas                #Pandas required to make a data frame for graph.
+- pip install PyGetWindow           #Used to get coords of a window
 
 **--OPTIONAL--**  
 - ~~pip install pickle~~            #Needed to load SKlearn model.(deprecated model)
